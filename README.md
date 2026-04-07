@@ -1,8 +1,5 @@
 # Data Pipeline — Books to Scrape
 
-**Cours : Data Pipelines for AI — MSc 2025-2026**
-**Session 1/3 — Introduction ETL / ELT et premier pipeline**
-
 ---
 
 ## Objectif du projet
